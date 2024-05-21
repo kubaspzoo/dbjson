@@ -1,16 +1,16 @@
 {
-"koty": [
-  {
-    "zdjecie": "https://i.imgur.com/TG682rx.jpeg",
-  },
-  {
-    "zdjecie": "https://i.imgur.com/9QKRXQO.png",    
-  },
-  {
-    "zdjecie": "https://i.imgur.com/Viu0gAn.jpeg"
-  }
-  ]
-  "pytanie": [
+  "koty": [
+    {
+      "zdjecie": "https://i.imgur.com/TG682rx.jpeg"
+    },
+    {
+      "zdjecie": "https://i.imgur.com/9QKRXQO.png"
+    },
+    {
+      "zdjecie": "https://i.imgur.com/Viu0gAn.jpeg"
+    }
+  ],
+  "pytania": [
     {
       "pytanie": "Które zdjęcie przedstawia krajobraz górski?",
       "odp": ["image1.jpg", "image2.jpg", "image3.jpg", "image4.jpg"],
