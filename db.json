@@ -1,4 +1,13 @@
 {
+
+
+"zdjecia": [
+  {
+    "zdjecie": "https://i.imgur.com/TG682rx.jpeg",
+    "zdjecie": "https://i.imgur.com/9QKRXQO.png",
+    "zdjecie": "https://i.imgur.com/Viu0gAn.jpeg"
+  }
+  ]
   "pytanie": [
     {
       "pytanie": "Które zdjęcie przedstawia krajobraz górski?",
