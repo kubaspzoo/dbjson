@@ -1,40 +1,16 @@
 {
   "koty": [
     {
-      "zdjecie": "https://i.imgur.com/TG682rx.jpeg"
+      "zdjecie": "https://i.imgur.com/TG682rx.jpeg",
+      "opis": "Kot jakis duzy chyba"
     },
     {
       "zdjecie": "https://i.imgur.com/9QKRXQO.png"
+      "opis": "Kot jakis duzy chyba"
     },
     {
       "zdjecie": "https://i.imgur.com/Viu0gAn.jpeg"
-    }
-  ],
-  "pytania": [
-    {
-      "pytanie": "Które zdjęcie przedstawia krajobraz górski?",
-      "odp": ["image1.jpg", "image2.jpg", "image3.jpg", "image4.jpg"],
-      "poprawnaodp": "image1.jpg"
-    },
-    {
-      "pytanie": "Na którym zdjęciu można zobaczyć zachód słońca nad morzem?",
-      "odp": ["image1.jpg", "image2.jpg", "image3.jpg", "image5.jpg"],
-      "poprawnaodp": "image2.jpg"
-    },
-    {
-      "pytanie": "Które zdjęcie przedstawia nowoczesną architekturę?",
-      "odp": ["image2.jpg", "image3.jpg", "image4.jpg", "image5.jpg"],
-      "poprawnaodp": "image3.jpg"
-    },
-    {
-      "pytanie": "Na którym zdjęciu jest las jesienią?",
-      "odp": ["image1.jpg", "image3.jpg", "image4.jpg", "image5.jpg"],
-      "poprawnaodp": "image4.jpg"
-    },
-    {
-      "pytanie": "Które zdjęcie przedstawia kwiat w ogrodzie?",
-      "odp": ["image1.jpg", "image2.jpg", "image4.jpg", "image5.jpg"],
-      "poprawnaodp": "image5.jpg"
+      "opis": "Kot jakis duzy chyba"
     }
   ]
 }
